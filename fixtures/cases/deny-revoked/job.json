@@ -1,0 +1,10 @@
+{
+  "kid": "k-revoked",
+  "user": "pay",
+  "schedule": "0 2 * * *",
+  "cmd": "/usr/local/pay/backup.sh",
+  "cwd": "/var/pay",
+  "nonce": "n-deny-revoked",
+  "iat": 1781783975,
+  "sig": "PSRtmGksuXAiYI3ZuJRY2FLQQijQhCCAguxNsYpTdLc"
+}

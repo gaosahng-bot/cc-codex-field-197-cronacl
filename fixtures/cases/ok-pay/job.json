@@ -1,0 +1,10 @@
+{
+  "user": "pay",
+  "schedule": "0 2 * * *",
+  "cmd": "/usr/local/pay/backup.sh",
+  "cwd": "/var/pay",
+  "nonce": "n-ok-pay",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "aoz5AZqgZHwyfoGB-YfbI9SwK1Y2EWT1jV-3Y22c_TM"
+}

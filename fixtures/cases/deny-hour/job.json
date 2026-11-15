@@ -1,0 +1,10 @@
+{
+  "user": "ops",
+  "schedule": "0 14 * * *",
+  "cmd": "/usr/local/ops/rotate.sh",
+  "cwd": "/var/ops",
+  "nonce": "n-deny-hour",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "cHCF1oRBsZ2ft03ciRk4R4rWkuNJhE9w0to9tIbXUoc"
+}

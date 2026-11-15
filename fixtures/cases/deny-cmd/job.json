@@ -1,0 +1,10 @@
+{
+  "user": "pay",
+  "schedule": "0 2 * * *",
+  "cmd": "/bin/bash",
+  "cwd": "/var/pay",
+  "nonce": "n-deny-cmd",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "OmEKYZ6kKea5uJ574osNT4q-97_UpGvY7VjaKuLPeUM"
+}

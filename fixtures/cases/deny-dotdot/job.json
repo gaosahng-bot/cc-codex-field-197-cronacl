@@ -1,0 +1,10 @@
+{
+  "user": "pay",
+  "schedule": "0 2 * * *",
+  "cmd": "/usr/local/pay/../ops/x",
+  "cwd": "/var/pay",
+  "nonce": "n-deny-dotdot",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "Hpi1425Pbic1C_0akZE3hcwFUqhot1elH7GDxSbgkPg"
+}
